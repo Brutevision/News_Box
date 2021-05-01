@@ -1,4 +1,9 @@
 # NewsBox
+
+News API for fetching data using Retrofit, SQLite database, MVVM architecture.
+
+Features: Feed, star mark any article, search news
+
 The following libraries were used in this project:-
 
  - [ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel)
